@@ -1,5 +1,5 @@
 {
-  "name": "react-telephone-input",
+  "name": "@saburiinfor/react-telephone-input",
   "version": "5.0.0",
   "description": "React component for entering and validating international telephone numbers",
   "main": "dist/index.js",
