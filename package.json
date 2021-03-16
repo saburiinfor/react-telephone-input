@@ -94,7 +94,6 @@
     "typescript": "^3.8.3"
   },
   "dependencies": {
-    "@saburiinfor/react-tiny-virtual-list": "github:saburiinfor/react-tiny-virtual-list",
     "@types/classnames": "^2.2.10",
     "@types/debounce": "^1.2.0",
     "@types/lodash.memoize": "^4.1.6",
@@ -103,7 +102,8 @@
     "cramda": "^0.4.4",
     "debounce": "^1.1.0",
     "lodash.memoize": "^4.1.2",
-    "react-click-outside": "^3.0.1"
+    "react-click-outside": "^3.0.1",
+    "@saburiinfor/react-tiny-virtual-list": "github:saburiinfor/react-tiny-virtual-list"
   },
   "peerDependencies": {
     "react": ">=0.14.0 || ^15.0.0 || ^16.0.0 || ^17.0.0"
